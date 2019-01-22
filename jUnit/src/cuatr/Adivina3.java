@@ -3,6 +3,7 @@ package cuatr;
 
 public class Adivina3 {
 	
+//cambio
 	private int intentos;
 	private int objetivo;
 	private boolean exito;
