@@ -1,4 +1,8 @@
 Archivo originale merge
 
+<<<<<<< HEAD
 
 Modificacion robert
+=======
+Modificacion no tiene nada que ver
+>>>>>>> 786232fdea272ad244d4e717dbec887e1f39a919
