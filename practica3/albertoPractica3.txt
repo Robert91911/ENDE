@@ -1,3 +1,7 @@
 Original
 
+<<<<<<< HEAD
 Modificacion to guapa
+=======
+Modificacion robert 1.1
+>>>>>>> 58c073af1c145eedd3c85a27f6cc7d23d6eade10
